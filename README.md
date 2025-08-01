@@ -20,9 +20,14 @@
   - Viewer ratings and popularity
 These insights can help understand user preferences, platform strategy, and content gaps.
 
-
 # Tools & Libraries Used
 - Python
   - pandas – for data manipulation
   - matplotlib & seaborn – for data visualization
 - Jupyter Notebook – for interactive data exploration
+
+# Key Insights
+ - Movie make up 93% of the content, while TV shows are 7%
+ - Drama and comedy are the most common genres
+ - Most content was released after 2015, showing a recent content push
+ - Higher-rated content tends to have higher popularity metrics
